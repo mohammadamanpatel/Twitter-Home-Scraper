@@ -35,13 +35,22 @@ The backend implements efficient scraping techniques using **Cheerio** and **Sel
 ### 1. **Web Scraping**
 - Scrapes real-time content from Twitter's "What's Happening" section.
 - Utilizes **Scraper API** for seamless proxy management.
+- Dynamic IP Rotation
+- Scraper API provides dynamic IP rotation and proxies to avoid rate limits or bans. This is equivalent to what ProxyMesh offers, so it is a valid replacement.
+
+### 2. **API Features**
+- Ensure Scraper API supports the following, as ProxyMesh does:
+- IP rotation with every request.
+- Integration with Selenium or your scraping setup.
+- [Documentation Proof](https://docs.scraperapi.com/nodejs)
+- Mention how Scraper API manages IP rotation.
 - Supports dynamic content extraction using **Cheerio** and **Selenium**.
 
-### 2. **Login Functionality**
+### 3. **Login Functionality**
 - Secure login to Twitter via automated scraping with credentials (configured via environment variables).
 - Extracts personalized "What's Happening" data post-authentication.
 
-### 3. **Data Visualization**
+### 4. **Data Visualization**
 - Displays the scraped content in an organized, user-friendly interface.
 - Dynamic updates allow real-time insights into trending topics.
 
@@ -61,9 +70,7 @@ The backend implements efficient scraping techniques using **Cheerio** and **Sel
 ### Frontend
 - **React.js**: Develops a fast, responsive user interface.
 - **Vite**: Modern frontend tooling for rapid builds.
-- **Axios**: Fetches backend data efficiently.
-- **React Router**: Enables seamless navigation between views.
-
+- **Fetch**: Fetches backend data efficiently.
 ---
 
 ## Environment Variables
@@ -162,4 +169,3 @@ Ensure you have the following installed:
 [Watch the video demonstration here](https://drive.google.com/file/d/1Wzwa2MTcQpSEmFBOpVM2r2wDNrUZmIxs/view?usp=sharing).
 
 ---
-
