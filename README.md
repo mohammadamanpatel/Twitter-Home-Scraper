@@ -124,7 +124,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohammadamanpatel/twitter-scraper
+   git clone https://github.com/mohammadamanpatel/twitter-home-scraper
    cd twitter-scraper
    ```
 
