@@ -168,8 +168,3 @@ Ensure you have the following installed:
 
 ---
 
-
----
-
-
----
