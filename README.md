@@ -1,7 +1,7 @@
 
 ---
 
-# Twitter Web Scraper: A MERN Stack Application
+# Twitter Home Scraper: A MERN Stack Application
 
 This repository contains the source code for a **MERN Stack Web Scraper** designed to extract real-time data from Twitter's "What's Happening" section. This application combines powerful web scraping tools with an intuitive user interface to showcase the integration of modern web technologies.
 
