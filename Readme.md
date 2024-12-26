@@ -22,7 +22,6 @@ This repository contains the source code for a **MERN Stack Web Scraper** design
 
 This project is a full-stack application leveraging the **MERN stack** (MongoDB, Express, React, Node.js) to provide:
 - **Web Scraping**: Extracts the "What's Happening" section from Twitter’s homepage.
-- **User Authentication**: Secure login functionality.
 - **Dynamic Frontend**: A responsive UI to display scraped data and user interactions.
 - **Third-Party Integrations**: Efficient proxy handling with **Scraper API**.
 
