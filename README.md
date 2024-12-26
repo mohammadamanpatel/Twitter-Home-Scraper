@@ -14,11 +14,7 @@ This repository contains the source code for a **MERN Stack Web Scraper** design
 - [Environment Variables](#environment-variables)
 - [Folder Structure](#folder-structure)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Video Demonstration](#video-demonstration)
-- [License](#license)
-- [Contributions](#contributions)
 
 ---
 
